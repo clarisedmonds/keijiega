@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://thohchath.whitney.io/sitemap.xml
